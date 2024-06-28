@@ -1,0 +1,20 @@
+[2024/06/18_23:17:16] <EOS_LOG_Info> LogEOS: Updating Platform SDK Config, Time: 0.215878
+[2024/06/18_23:17:21] <EOS_LOG_Info> LogEOS: SDK Config Platform Update Request Successful, Time: 4.706161
+[2024/06/18_23:17:21] <EOS_LOG_Info> LogEOS: Updating Product SDK Config, Time: 4.722828
+[2024/06/18_23:17:22] <EOS_LOG_Info> LogEOS: SDK Config Product Update Request Successful, Time: 5.439490
+[2024/06/18_23:17:22] <EOS_LOG_Info> LogEOS: SDK Config Data - Watermark: 947546383
+[2024/06/18_23:17:22] <EOS_LOG_Info> LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.439490, Update Interval: 354.197205
+[2024/06/18_23:17:48] <EOS_LOG_Error> LogEOSAntiCheat: [AntiCheatClient] EOS_AntiCheatClient_EndSession: No session is active.
+[2024/06/18_23:17:56] <EOS_LOG_Error> LogEOSAntiCheat: [AntiCheatClient] EOS_AntiCheatClient_EndSession: No session is active.
+[2024/06/18_23:17:57] <EOS_LOG_Warning> LogHttp: 00000000043053E0: request has been successfully processed. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 500, content length: 176, actual payload size: 176, elapsed: 0.13s
+[2024/06/18_23:17:57] <EOS_LOG_Warning> LogHttp: 00000000043053E0 Response Header Date: Tue, 18 Jun 2024 21:17:57 GMT
+[2024/06/18_23:17:57] <EOS_LOG_Warning> LogHttp: 00000000043053E0 Response Header Content-Type: application/json
+[2024/06/18_23:17:57] <EOS_LOG_Warning> LogHttp: 00000000043053E0 Response Header Content-Length: 176
+[2024/06/18_23:17:57] <EOS_LOG_Warning> LogHttp: 00000000043053E0 Response Header Connection: keep-alive
+[2024/06/18_23:17:57] <EOS_LOG_Warning> LogHttp: 00000000043053E0 Response Header X-Epic-Correlation-Id: EOS-Ek2_0-4saU6TyMW1HxHVig-5aw4yXfVskC5QHExmWeTpg-93hf5HHEtUaPNfWQ44hklA
+[2024/06/18_23:17:57] <EOS_LOG_Warning> LogHttp: 00000000043053E0 Response Header X-Epic-Error-Code: 1000
+[2024/06/18_23:17:57] <EOS_LOG_Warning> LogHttp: 00000000043053E0 Response Header X-Epic-Error-Name: errors.com.epicgames.server_error
+[2024/06/18_23:17:57] <EOS_LOG_Warning> LogHttp: 00000000043053E0 Response Header Server: eos-gateway
+[2024/06/18_23:17:57] <EOS_LOG_Warning> LogEOS: Error response received from backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>], HttpStatus=[500], ErrorCode=[errors.com.epicgames.server_error], NumericErrorCode=[1000], ErrorMessage=[Server Error], CorrId=[EOS-Ek2_0-4saU6TyMW1HxHVig-5aw4yXfVskC5QHExmWeTpg-93hf5HHEtUaPNfWQ44hklA]
+Connessione a Epic Online Services non riuscita: 03-99999
+Impossibile avviare la modalità online.
