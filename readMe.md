@@ -1,5 +1,5 @@
 
-# *Nome del gioco*
+# I Have No Mouth, and I Must Scream
 `245390`
 
 ## Percorso del file di salvataggio
