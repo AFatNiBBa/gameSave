@@ -43,7 +43,7 @@ lifting humanity into its next childhood.</detail>
 		<name>Weapon Master</name>
 		<detail>Acquire a weapon of the highest level.</detail>
 	</trophy>
-	<trophy id="008" hidden="no" ttype="S" pid="000">
+	<trophy id="008" hidden="no" ttype="S" pid="000" unlockstate="true" timestamp="63877503725746114">
 		<name>Blood Gem Master</name>
 		<detail>Acquire an extremely precious blood gem.</detail>
 	</trophy>

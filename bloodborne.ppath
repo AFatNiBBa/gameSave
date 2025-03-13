@@ -31,5 +31,25 @@ sogno del cacciatore > dietro > continua per la strada finchè > non trovi un ca
             }
         }
     }
-    "Edificio ricerche"
+    "Edificio ricerche" > avanti > scale > su > {
+        (sinistra > destra > avanti > porta > chiuso a chiave)
+        scale a chiocciola > {
+            (dalla forma sembrerebbe che possano essere girate > quando, eventualmente, ci riesci ripassale tutte)
+            su > {
+                (sinistra > si intravede un'oggetto sopra una piattaforma con un nemico simile ad uno spermatozzoo)
+                (scale sulla sinistra > su > sinistra > sinistra > puoi calarti giù su un'altro set di scale > su > vicolo cieco che finisce in mezzo al nulla > probabilmente serve dopo che eventualmente giri le scale)
+                scale sulla destra > su > sinistra > fondo > destra > porta > destra > scala a pioli > {
+                    (mezzo > sulla destra > si intravede un'oggetto che pende)
+                    (su > avanti > avanti > scale > su > destra > scale > su > porta > sinistra > sulla destra > si intravede un gran portone che probabilmente è accessibile quando, eventualmente, si ruotano le scale)
+                }
+            }
+        }
+        destra > porta > {
+            (npc > vuole del fluido cerebrale > ("scuro e molliccio"))
+            sinistra > ascensore > su > avanti > ascensore > {
+                (mezzo > avanti > sinistra > ... > destra > scale > giù > sinistra > si vede un posto percorribile ma è troppo lontano per lanciarcisi)
+                su > sinistra > avanti > scale > su > destra > scale > su > avanti > scale a pioli > su
+            }
+        }
+    }
 }
