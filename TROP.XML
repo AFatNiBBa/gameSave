@@ -166,11 +166,11 @@ the home of the cosmic kin.</detail>
 		<name>Ludwig, the Holy Blade</name>
 		<detail>Defeat the beast that was once Ludwig, the Holy Blade.</detail>
 	</trophy>
-	<trophy id="037" hidden="yes" ttype="B" pid="-1" gid="001">
+	<trophy id="037" hidden="yes" ttype="B" pid="-1" gid="001" unlockstate="true" timestamp="63877691432786558">
 		<name>Lady Maria of the Astral Clocktower</name>
 		<detail>Defeat Lady Maria of the Astral Clocktower.</detail>
 	</trophy>
-	<trophy id="038" hidden="yes" ttype="B" pid="-1" gid="001">
+	<trophy id="038" hidden="yes" ttype="B" pid="-1" gid="001" unlockstate="true" timestamp="63877688823510876">
 		<name>Living Failures</name>
 		<detail>Defeat the failed attempts to become Great Ones.</detail>
 	</trophy>

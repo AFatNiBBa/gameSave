@@ -3,12 +3,14 @@
 
 "https://bloodborne.wiki.fextralife.com/Caryll+Runes" > chiappa tutte queste rune >> queste mancano del tutto {
     "Beast's Embrace" > scofiggi questo "https://bloodborne.wiki.fextralife.com/Laurence%2C+the+First+Vicar##fex" (dlc)
-    "Guidance" > sconfiggi l'uomo cavallo aborto
     "Hunter" > completa la quest di "Eileen the Crow" > "https://bloodborne.wiki.fextralife.com/Eileen+the+Crow"
-    "Milkweed" > completa la quest di "Saint Adeline" > "https://bloodborne.wiki.fextralife.com/Saint+Adeline##fex"
 }
 
 oggetto chiave > "https://bloodborne.wiki.fextralife.com/Laurence's+Skull"
+
+"https://bloodborne.wiki.fextralife.com/Workshop+Haze+Extractor"
+
+"https://bloodborne.wiki.fextralife.com/Harrowed+Hunter" > ultimo punto della quest
 
 --------------------------------------------------------------------------------------------------------
 
@@ -21,35 +23,9 @@ sogno del cacciatore > dietro > continua per la strada finchè > non trovi un ca
 --------------------------------------------------------------------------------------------------------
 
 "Lapide dell'incubo del cacciatore" > {
-    "Pila di corpi sotterranea" > avanti > scale > su > sinistra > scale > su > {
-        (sinistra > porta chiusa)
-        destra > {
-            (destra > porta chiusa)
-            avanti > {
-                (sinistra > ... > porta chiusa) >> "https://bloodborne.wiki.fextralife.com/Brador" > ammazza tutte le istanze
-                (avanti > sinistra > porta chiuse)
-            }
-        }
-    }
-    "Edificio ricerche" > avanti > scale > su > {
-        (sinistra > destra > avanti > porta > chiuso a chiave)
-        scale a chiocciola > {
-            (dalla forma sembrerebbe che possano essere girate > quando, eventualmente, ci riesci ripassale tutte)
-            su > {
-                (sinistra > si intravede un'oggetto sopra una piattaforma con un nemico simile ad uno spermatozzoo)
-                (scale sulla sinistra > su > sinistra > sinistra > puoi calarti giù su un'altro set di scale > su > vicolo cieco che finisce in mezzo al nulla > probabilmente serve dopo che eventualmente giri le scale)
-                scale sulla destra > su > sinistra > fondo > destra > porta > destra > scala a pioli > {
-                    (mezzo > sulla destra > si intravede un'oggetto che pende)
-                    (su > avanti > avanti > scale > su > destra > scale > su > porta > sinistra > sulla destra > si intravede un gran portone che probabilmente è accessibile quando, eventualmente, si ruotano le scale)
-                }
-            }
-        }
-        destra > porta > {
-            (npc > vuole del fluido cerebrale > ("scuro e molliccio"))
-            sinistra > ascensore > su > avanti > ascensore > {
-                (mezzo > avanti > sinistra > ... > destra > scale > giù > sinistra > si vede un posto percorribile ma è troppo lontano per lanciarcisi)
-                su > sinistra > avanti > scale > su > destra > scale > su > avanti > scale a pioli > su
-            }
-        }
+    ("Pila di corpi sotterranea" > avanti > scale > su > sinistra > scale > su > destra > avanti > sinistra > ... > porta chiusa) >> "https://bloodborne.wiki.fextralife.com/Brador" > ammazza tutte le istanze
+    "Villaggio dei pescatori" > {
+        (sulla sinistra > scala a pioli che può essere abbassata dall'altra parte)
+        sulla destra
     }
 }
