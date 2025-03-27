@@ -10,7 +10,7 @@ oggetto chiave > "https://bloodborne.wiki.fextralife.com/Laurence's+Skull"
 
 "https://bloodborne.wiki.fextralife.com/Workshop+Haze+Extractor"
 
-"https://bloodborne.wiki.fextralife.com/Harrowed+Hunter" > ultimo punto della quest
+che cazzo è la questione del diventare bestie che viene citata su quella runa?
 
 --------------------------------------------------------------------------------------------------------
 
@@ -22,10 +22,4 @@ sogno del cacciatore > dietro > continua per la strada finchè > non trovi un ca
 
 --------------------------------------------------------------------------------------------------------
 
-"Lapide dell'incubo del cacciatore" > {
-    ("Pila di corpi sotterranea" > avanti > scale > su > sinistra > scale > su > destra > avanti > sinistra > ... > porta chiusa) >> "https://bloodborne.wiki.fextralife.com/Brador" > ammazza tutte le istanze
-    "Villaggio dei pescatori" > {
-        (sulla sinistra > scala a pioli che può essere abbassata dall'altra parte)
-        sulla destra
-    }
-}
+"Lapide dell'incubo del cacciatore" > "Capanno del faro" > sinistra > cancello > oltre > ascensore > giù > strada dove ci sono i tipi che pregano > ... > boss (orfano di Kos)
