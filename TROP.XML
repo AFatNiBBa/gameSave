@@ -174,7 +174,7 @@ the home of the cosmic kin.</detail>
 		<name>Living Failures</name>
 		<detail>Defeat the failed attempts to become Great Ones.</detail>
 	</trophy>
-	<trophy id="039" hidden="yes" ttype="B" pid="-1" gid="001">
+	<trophy id="039" hidden="yes" ttype="B" pid="-1" gid="001" unlockstate="true" timestamp="63884230858780039">
 		<name>Laurence, the First Vicar</name>
 		<detail>Defeat the beast that was once Laurence, the First Vicar.</detail>
 	</trophy>
