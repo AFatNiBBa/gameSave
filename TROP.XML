@@ -158,7 +158,7 @@ the home of the cosmic kin.</detail>
 		<name>Old Hunter's Essence</name>
 		<detail>Acquire all old hunter weapons.</detail>
 	</trophy>
-	<trophy id="035" hidden="yes" ttype="S" pid="-1" gid="001">
+	<trophy id="035" hidden="yes" ttype="S" pid="-1" gid="001" unlockstate="true" timestamp="63884221111409096">
 		<name>Orphan of Kos</name>
 		<detail>Defeat Great One: Orphan of Kos.</detail>
 	</trophy>
