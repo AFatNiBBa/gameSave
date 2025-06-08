@@ -154,7 +154,7 @@ the tragic land lost to the sands.</detail>
 		<detail>Acquire the Great Chalice of Isz that seals
 the home of the cosmic kin.</detail>
 	</trophy>
-	<trophy id="034" hidden="no" ttype="G" pid="-1" gid="001">
+	<trophy id="034" hidden="no" ttype="G" pid="-1" gid="001" unlockstate="true" timestamp="1749346221">
 		<name>Old Hunter's Essence</name>
 		<detail>Acquire all old hunter weapons.</detail>
 	</trophy>
