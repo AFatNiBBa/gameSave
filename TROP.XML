@@ -13,11 +13,11 @@
 		<name>Bloodborne</name>
 		<detail>All trophies acquired. Hats off!</detail>
 	</trophy>
-	<trophy id="001" hidden="yes" ttype="G" pid="000">
+	<trophy id="001" hidden="yes" ttype="G" pid="000" unlockstate="true" timestamp="1749348343">
 		<name>Yharnam Sunrise</name>
 		<detail>You lived through the hunt, and saw another day.</detail>
 	</trophy>
-	<trophy id="002" hidden="yes" ttype="G" pid="000">
+	<trophy id="002" hidden="yes" ttype="G" pid="000" unlockstate="true" timestamp="1749349388">
 		<name>Honouring Wishes</name>
 		<detail>Captivated by the moon presence,
 you pledge to watch over the hunter's dream.</detail>
@@ -31,7 +31,7 @@ lifting humanity into its next childhood.</detail>
 		<name>Yharnam, Pthumerian Queen</name>
 		<detail>Defeat Yharnam, Blood Queen of the Old Labyrinth.</detail>
 	</trophy>
-	<trophy id="005" hidden="no" ttype="G" pid="000">
+	<trophy id="005" hidden="no" ttype="G" pid="000" unlockstate="true" timestamp="1749351404">
 		<name>Hunter's Essence</name>
 		<detail>Acquire all hunter weapons.</detail>
 	</trophy>
