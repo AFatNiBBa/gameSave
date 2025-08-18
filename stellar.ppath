@@ -28,10 +28,4 @@ il gioco ha ~3 finali e almeno 2 giocate (per il ng+) quindi organizzati bene > 
 
 --------------------------------------------------------------------------------------------------------
 
-"Spire 4" > "Atrio del centro spaziale Raphael" > {
-    muro > scan > si intravedono oggetti > {
-        (cassa)
-        ('oggetto')
-    }
-    sinistra > destra > avanti
-}
+"Spire 4" > "Atrio del centro spaziale Raphael" > sinistra > destra > avanti > destra > sinistra > ascensore
