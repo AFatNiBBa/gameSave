@@ -7,7 +7,6 @@ completamento > {
     banca dati > naytiba > adam > finale in cui rifiuti l'offerta di Adam
     
     "https://www.ign.com/wikis/stellar-blade/Exospine_Locations" > {
-        "Burst Trance-Type Exospine" > matrix 11 > potenzia
         "Beta Trance-Type Exospine" > matrix 11 > potenzia
         "Recovery-Type Exospine" > desertone > vicino al ponte rotto DAVANTI alla torre solare > potenzia
         "Suppression-Type Exospine" > desertone > vicino all'entrata dell'hypertubo > potenzia
@@ -20,6 +19,13 @@ completamento > {
         drone
         potenza d'attacco
         potenza fiaschetta
+    } >> ng++ > {
+        abilità?
+        drone?
+        potenza d'attacco?
+        potenza fiaschetta?
+        nuclei beta?
+        nuclei corporei?
     }
 }
 
@@ -27,4 +33,4 @@ finale in cui accetti la proposta di Adam però non hai l'affinità con Lily
 
 --------------------------------------------------------------------------------------------------------
 
-"Abisso Levoire"
+"Spire 4"
