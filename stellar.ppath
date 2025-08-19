@@ -7,11 +7,11 @@ completamento > {
     banca dati > naytiba > adam > finale in cui rifiuti l'offerta di Adam
     
     "https://www.ign.com/wikis/stellar-blade/Exospine_Locations" > {
-        "Beta Trance-Type Exospine" > matrix 11 >> potenzia
-        "Burst Trance-Type Exospine" > matrix 11 >> potenzia
-        "Reflex-Type Exospine" > matrix 11 > dentro al treno che si schianta e sblocca la famosa scorciatoia > (equip) >> potenzia
-        "Recovery-Type Exospine" > desertone > vicino al ponte rotto DAVANTI alla torre solare >> potenzia
-        "Suppression-Type Exospine" > desertone > vicino all'entrata dell'hypertubo >> potenzia
+        "Burst Trance-Type Exospine" > matrix 11 > potenzia
+        "Beta Trance-Type Exospine" > matrix 11 > potenzia
+        "Recovery-Type Exospine" > desertone > vicino al ponte rotto DAVANTI alla torre solare > potenzia
+        "Suppression-Type Exospine" > desertone > vicino all'entrata dell'hypertubo > potenzia
+
         "Judgement-Type Exospine" > spire 4 > enigma con le palle prima della zona con le torrette >> potenzia
     }
 
@@ -27,4 +27,4 @@ finale in cui accetti la proposta di Adam però non hai l'affinità con Lily
 
 --------------------------------------------------------------------------------------------------------
 
-"Matrix 11"
+"Abisso Levoire"
