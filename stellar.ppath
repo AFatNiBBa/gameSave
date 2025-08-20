@@ -6,13 +6,12 @@ completamento > {
 
     banca dati > naytiba > adam > finale in cui rifiuti l'offerta di Adam
     
-    "https://www.ign.com/wikis/stellar-blade/Exospine_Locations" > {
-        "Beta Trance-Type Exospine" > matrix 11 > potenzia
-        "Recovery-Type Exospine" > desertone > vicino al ponte rotto DAVANTI alla torre solare > potenzia
-        "Suppression-Type Exospine" > desertone > vicino all'entrata dell'hypertubo > potenzia
-
-        "Judgement-Type Exospine" > spire 4 > enigma con le palle prima della zona con le torrette >> potenzia
-    }
+    {
+        "Beta Trance-Type Exospine"
+        "Recovery-Type Exospine"
+        "Suppression-Type Exospine"
+        "Judgement-Type Exospine"
+    } > potenzia
 
     potenziamenti ng+ > {
         abilità
