@@ -5,15 +5,11 @@
 
 guarda un video su tutti i boss sogno > "https://hollowknight.fandom.com/wiki/Category:Bosses_(Hollow_Knight)#Warrior_Dreams" > tutti gli utilizzi del dreamnail > "https://hollowknight.fandom.com/wiki/Dream_Nail"
 
-compra tutte le robe ai negozzi > {
-    salubra > (quello che vende gli amuleti) > (40 amuleti + 800 geo)
-    la falena che t'ha dato l'aculeo dei sogni > (2400 essenze)
-}
+compra tutte le robe ai negozzi > la falena che t'ha dato l'aculeo dei sogni > (2400 essenze)
 
 quest > {
     millibelle > alla fine del gioco dagli più di 2550 geo e poi valla a menà quando li ruba
     tela
-    papà bruco
     tiso
     zote
     cacciatore > torna da lui dopo aver riempito il diario
@@ -30,7 +26,7 @@ finali > {
 
 --------------------------------------------------------------------------------------------------------
 
-("Verdevia" > destra > cambio stanza > fondo a destra > giù > cambio stanza > destra > destra > destra > destra > cambio stanza > destra > in alto > destra > ... > cambio stanza > tutto a destra > giù > cambio stanza > sinistra > giù > destra > destra > giù > sinistra > sinistra > sinistra > cambio stanza > sinistra > ... > cambio stanza > *uscita alla sinistra della stanza* > *dopo il lago da attraversare pogando su DUE nemici* > sinistra > ARRAMPICATA > altro laghetto d'attraversare pogando > ARRAMPICATA > sinistra > giù > (stele con testo) > alto a sinistra > passaggio che si apre dall'altra parte)
+("Giardini della regina" > destra > cambio stanza > *seconda uscita a sinistra* > porta il fiore)
 
 "Pulveria" > {
     (destra > ... > pozzo > giù > destra > ... > cambio stanza > destra > struttura del boss finale)
@@ -38,16 +34,11 @@ finali > {
     *zote del sogno*
 }
 
-"Stazione della Regina" > destra > cambio stanza > su > cima > sinistra > cambio stanza > (posto delle meduse) > *seconda uscita a sinistra* > *uscita a sinistra* > (giardini della regina) > *uscita a sinistra*
-
 "Terre del riposo" > sinistra > cambio stanza > fondo > destra > bara > giù > cambio stanza > *seconda uscita in alto* > destra > edificio > dentro > queat del fiore bianco > {
     target effettivo > (fantasma nei giardini della regina) > (fallo per ultimo, sennò la tipa non ti da più il fiore e ti tocca prenderlo da qui, che è più lungo)
-    (secondo pantheon >> godseeker)
+    secondo pantheon >> godseeker
 }
 
 --------------------------------------------------------------------------------------------------------
 
-"Stazione nascosta" > sinistra > *cambio stanza* > sinistra > ... > {
-    (sinistra > ... > *cambio stanza* > sinistra > giù > sinistra > sinistra > giù > *cambio stanza* > ... > (abisso) > fondo > king soul >> giù)
-    cadavere > dreamnail > (palazzo reale) > *ascensorino* > su > ... > cambio stanza > sinistra > passaggio segreto rialzato > path of pain
-}
+grimm

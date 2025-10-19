@@ -10,7 +10,7 @@ Direct3D:
     VRAM:     6144 MB
     Driver:   31.0.21902.5
 Begin MonoManager ReloadAssembly
-- Completed reload, in  1.142 seconds
+- Completed reload, in  0.141 seconds
 OnLevelWasLoaded was found on GameMap
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
@@ -25,7 +25,7 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initialized touch support.
 The class named 'ConfigManager' is abstract. The script class can't be abstract!
 
-UnloadTime: 1.227500 ms
+UnloadTime: 1.407300 ms
 Graphics tier changed to High
 
 Steam initializing
@@ -43,14 +43,14 @@ Restored language code 'IT'
 
 
 Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 3824.
-Total: 3.284900 ms (FindLiveObjects: 0.342500 ms CreateObjectMapping: 0.156600 ms MarkObjects: 2.617500 ms  DeleteObjects: 0.166900 ms)
+Total: 2.477900 ms (FindLiveObjects: 0.270000 ms CreateObjectMapping: 0.163000 ms MarkObjects: 1.919300 ms  DeleteObjects: 0.124400 ms)
 
 Steam stats received.
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 Didn't need to wait for PlayerPrefs load.
 
-UnloadTime: 6.304500 ms
+UnloadTime: 6.553900 ms
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 
 Performing automatic level start.
@@ -63,7 +63,7 @@ pd.maxHealth: 10 pd.maxHealthBase: 8
 
 
 Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 46223.
-Total: 197.888000 ms (FindLiveObjects: 3.756900 ms CreateObjectMapping: 2.101500 ms MarkObjects: 191.860500 ms  DeleteObjects: 0.167700 ms)
+Total: 197.620700 ms (FindLiveObjects: 3.918300 ms CreateObjectMapping: 1.964500 ms MarkObjects: 191.591200 ms  DeleteObjects: 0.145500 ms)
 
 Game controller set to XInput Controller.
 
@@ -93,66 +93,46 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
-Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 181 unused Assets to reduce memory usage. Loaded Objects now: 55797.
-Total: 252.226900 ms (FindLiveObjects: 5.493400 ms CreateObjectMapping: 5.125400 ms MarkObjects: 240.721400 ms  DeleteObjects: 0.885500 ms)
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
+Unloading 181 unused Assets to reduce memory usage. Loaded Objects now: 49275.
+Total: 231.212600 ms (FindLiveObjects: 4.227900 ms CreateObjectMapping: 1.971200 ms MarkObjects: 224.156700 ms  DeleteObjects: 0.855700 ms)
 
 Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
 
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
 
 Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
 
-Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
 
 Object Pool attached to GlobalPool could not find a copy of Uninfected Hit Pt, Instantiating a new one.
 
@@ -160,6 +140,12 @@ Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, I
 
 Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
 
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
 Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
 
 Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
@@ -170,31 +156,99 @@ Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, I
 
 Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
 
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
 Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
 
 Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
 
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
+
 Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Object Pool attached to GlobalPool has run out of White Flash R prefabs, Instantiating an additional one.
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -206,7 +260,15 @@ PlayOneShot was called with a null AudioClip.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -214,219 +276,67 @@ Deferring level start (marked as manual).
 
 PlayOneShot was called with a null AudioClip.
 
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Deferring level start (marked as manual).
-
-PlayOneShot was called with a null AudioClip.
-
 PlayOneShot was called with a null AudioClip.
 
 PlayOneShot was called with a null AudioClip.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 474 unused Assets to reduce memory usage. Loaded Objects now: 63743.
-Total: 283.424800 ms (FindLiveObjects: 5.687300 ms CreateObjectMapping: 2.387600 ms MarkObjects: 274.140300 ms  DeleteObjects: 1.208600 ms)
-
-Deferring level start (marked as manual).
-
 Deferring level start (marked as manual).
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
-Unloading 31 Unused Serialized files (Serialized files now loaded: 0)
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 63744.
-Total: 282.539600 ms (FindLiveObjects: 5.466500 ms CreateObjectMapping: 2.360500 ms MarkObjects: 274.133600 ms  DeleteObjects: 0.577400 ms)
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
 
 PlayerData: Could not find bool named visitedFungalWastes in PlayerData
 
 PlayerData: Could not find bool named visitedCity in PlayerData
 
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
+PlayOneShot was called with a null AudioClip.
 
 PlayOneShot was called with a null AudioClip.
 
-Bump Height: 0.000579834
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
 Deferring level start (marked as manual).
 
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Deferring level start (marked as manual).
-
-Deferring level start (marked as manual).
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
-
-Bump Height: 0.000579834
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -436,63 +346,33 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
-Deferring level start (marked as manual).
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Uninfected Hit Pt prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Uninfected Death Pt prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
+Bump Height: 0.001998901
 
 Object Pool attached to GlobalPool has run out of White Flash R prefabs, Instantiating an additional one.
 
+Object Pool attached to GlobalPool has run out of White Flash R prefabs, Instantiating an additional one.
+
+Bump Height: 0.001998901
+
+Bump Height: 0.001998901
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
 Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -501,6 +381,8 @@ AddEventHandlerComponent: PlayMakerCollisionEnter2D
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -548,7 +430,233 @@ Deferring level start (marked as manual).
 
 No area with identifier "PATH_OF_SACRIFICE" found in area list. Creating default SubArea.
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Deferring level start (marked as manual).
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -564,6 +672,32 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
 PlayOneShot was called with a null AudioClip.
 
 PlayOneShot was called with a null AudioClip.
@@ -577,6 +711,134 @@ PlayOneShot was called with a null AudioClip.
 PlayOneShot was called with a null AudioClip.
 
 PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
@@ -584,6 +846,74 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+PlayerData: Could not find bool named visitedFungalWastes in PlayerData
+
+PlayerData: Could not find bool named visitedCity in PlayerData
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
@@ -591,21 +921,30 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
-Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.273800 ms
+Unloading 57 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 5400 unused Assets to reduce memory usage. Loaded Objects now: 64016.
+Total: 345.935700 ms (FindLiveObjects: 5.856100 ms CreateObjectMapping: 3.035200 ms MarkObjects: 315.151500 ms  DeleteObjects: 21.891800 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.922400 ms
 Deferring level start (marked as manual).
 
 
-Unloading 1200 unused Assets to reduce memory usage. Loaded Objects now: 55020.
-Total: 274.731300 ms (FindLiveObjects: 4.643300 ms CreateObjectMapping: 2.773200 ms MarkObjects: 263.269500 ms  DeleteObjects: 4.044000 ms)
+Unloading 519 unused Assets to reduce memory usage. Loaded Objects now: 54949.
+Total: 304.899100 ms (FindLiveObjects: 5.282000 ms CreateObjectMapping: 2.577600 ms MarkObjects: 295.261300 ms  DeleteObjects: 1.777000 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.719000 ms
+UnloadTime: 0.602000 ms
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 
 Performing automatic level start.
@@ -620,16 +959,16 @@ Game controller set to XInput Controller.
 
 pd.maxHealth: 9 pd.maxHealthBase: 9
 
-pd.maxHealth: 10 pd.maxHealthBase: 8
+pd.maxHealth: 8 pd.maxHealthBase: 8
 
 
-Unloading 422 unused Assets to reduce memory usage. Loaded Objects now: 47686.
-Total: 176.495600 ms (FindLiveObjects: 3.875500 ms CreateObjectMapping: 1.918100 ms MarkObjects: 169.437700 ms  DeleteObjects: 1.263300 ms)
+Unloading 459 unused Assets to reduce memory usage. Loaded Objects now: 47722.
+Total: 177.788100 ms (FindLiveObjects: 3.972200 ms CreateObjectMapping: 2.152800 ms MarkObjects: 170.340800 ms  DeleteObjects: 1.321200 ms)
 
 Setting up 4 worker threads for Enlighten.
+  Thread -> id: 240 -> priority: 1 
   Thread -> id: 244 -> priority: 1 
-  Thread -> id: 248 -> priority: 1 
   Thread -> id: 24c -> priority: 1 
-  Thread -> id: 250 -> priority: 1 
+  Thread -> id: 248 -> priority: 1 
 Shutting down Steam API.
 
