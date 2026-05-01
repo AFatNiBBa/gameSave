@@ -1,26 +1,21 @@
 
+"https://wand.com/it/maps/pragmata"
+
+--------------------------------------------------------------------------------------------------------
+
 achievements
 
-tutti gli spazzini
-
-tutte le sfide alla base
-
-tutti i pupazzetti mini cabin da trovare
-
-tutte le cose da completare listate sul tram
-
-tutte le schede del bingo
-
-tutti i modelli di robot
-
-tutti i documenti
-
-(tutte le pareti olografiche)
+modalità "Unknown signal" > {
+    tutte le cose da completare listate sul tram
+    tutte le schede del bingo > "Executive" > modalità "Unknown signal"
+    tutti i modelli di robot > (31) > "Executive" stamp card
+    "Stanza nascosta"
+}
 
 --------------------------------------------------------------------------------------------------------
 
-simulazione 30
-
---------------------------------------------------------------------------------------------------------
-
-"Stanza nascosta"
+finisci il gioco >>
+    crea salvataggio con la lunina >>
+        inizia "Unknown signal" > (le aree passate te le sblocca tutte dopo la prima missioncina) >>
+            ottieni il potenziamento segreto >>
+                fininisci il gioco con quello > finale secondario
