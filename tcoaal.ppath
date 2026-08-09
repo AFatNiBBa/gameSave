@@ -1,0 +1,35 @@
+
+prendi tutte le stelle e visioni
+
+run 1 > Andy da solo con i genitori > {
+    non fidata > visione > porta bianca dietro la quale Andy ti insegue > {
+        (FATTO > lo spari > FILE 3 (Muore Andy) > FILE 5 > chi sei? > "Andrew" > FILE 8 > tieni l'anello > { sì > FILE 9, no > FILE 10 })
+        ti fai uccidere > FILE 4 (Muore Ley) > chiama Julia al Campeggio? > FILE 11 > {
+            (no)
+            sí > FILE 12 > manichino della sposa > mettigli l'accessorio > {
+                bende > (scegli di non accoltellare il pupazzo, nel dubbio) > Julia > (Non hai finito bene i compiti di LeyLey qui) > FILE 14 > *DEVE USCIRE* > (Non credo cambi nulla)
+                chocker > (prendi accoltellando il pupazzo rosa) > Ashley > FILE 13 > *DEVE USCIRE*
+            }
+        }
+    }
+}
+
+run 2 > Andy da solo con i genitori > FILE 15 > {
+    fidata > Accetta la proposta dei genitori? > FILE 16 > {
+        (accetta)
+        rifiuta > FILE 17 > porte > {
+            ☀️, 💔, ❤️ > Julia > (Fantasmini) > FILE 18 > *DEVE USCIRE*
+            ❤️, ☀️, 💔 > Ashley > (Amoreggianti) > "Si avvererà mai la visione?" > {
+                ("Mai" > Finale giù dal ponte)
+                "Mai dire mai" > FILE 19 > *DEVE USCIRE*
+            }
+        }
+    }
+    non fidata > FILE 20 > spara ad Andrew nella visione? > {
+        sì > FILE 21
+        no > FILE 22 > come ti chiami? > {
+            Andy
+            Andrew > FILE 23
+        }
+    }
+}
